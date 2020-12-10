@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/usr/ドキュメント/app/lib/org.eclipse.e4.ui.css.swt.theme_0.12.700.v20200527-0719.jar"/>
+	<classpathentry kind="lib" path="/home/usr/ドキュメント/app/lib/org.eclipse.e4.ui.css.swt_0.13.1100.v20200819-0632.jar"/>
+	<classpathentry kind="lib" path="/home/usr/ドキュメント/app/lib/org.eclipse.e4.ui.swt.gtk_1.0.600.v20190627-0755.jar"/>
+	<classpathentry kind="lib" path="/home/usr/ドキュメント/app/lib/org.eclipse.e4.ui.workbench.addons.swt_1.3.1100.v20200703-0611.jar"/>
+	<classpathentry kind="lib" path="/home/usr/ドキュメント/app/lib/org.eclipse.e4.ui.workbench.renderers.swt_0.14.1300.v20200829-1411.jar"/>
+	<classpathentry kind="lib" path="/home/usr/ドキュメント/app/lib/org.eclipse.e4.ui.workbench.swt_0.14.1100.v20200619-0644.jar"/>
+	<classpathentry kind="lib" path="/home/usr/ドキュメント/app/lib/org.eclipse.swt.browser.chromium.gtk.linux.x86_64_3.115.0.v20200831-1002.jar"/>
+	<classpathentry kind="lib" path="/home/usr/ドキュメント/app/lib/org.eclipse.swt.gtk.linux.x86_64_3.115.0.v20200831-1002.jar"/>
+	<classpathentry kind="lib" path="/home/usr/ドキュメント/app/lib/org.eclipse.swt_3.115.0.v20200831-1002.jar"/>
+	<classpathentry kind="lib" path="/home/usr/ドキュメント/app/lib/swt-4.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
