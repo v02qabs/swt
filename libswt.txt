@@ -1,0 +1,5 @@
+./share/java/eclipse-e4-ui-workbench-swt.jar
+./share/java/eclipse-e4-ui-workbench-renderers-swt.jar
+./share/java/org.eclipse.swt.jar
+./share/java/eclipse-e4-ui-css-swt.jar
+./share/java/eclipse-e4-ui-workbench-addons-swt.jar
